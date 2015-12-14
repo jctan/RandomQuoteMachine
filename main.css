@@ -1,0 +1,76 @@
+body {
+    background-image: url(motivational.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+p {
+    margin: 0;
+}
+h1 {
+    font-family: "Arial Black", sans-serif;
+    margin-bottom: 4rem;
+    color: darkgrey;
+}
+
+footer {
+    color: white;
+}
+
+footer a, footer a:hover, footer a:active, footer a:visited {
+    color: black;
+}
+
+.custom-button {
+    width: 100%;
+    margin-bottom: 1.3rem;
+    width: 58%;
+    padding: 1.8rem 0;
+    font-size: 1.8rem;
+}
+
+.opacityLevel {
+    opacity: 0.8;
+}
+
+.quoteBox{
+    margin-top: 3em;
+    background-color: lightgrey;
+    color: black;
+
+}
+
+.quoteHistoryBox{
+    margin-top: 8rem;
+    background-color: lightgray;
+    color: black;
+}
+
+
+.quoteHistory p {
+    margin: 1.5rem 0;
+    color: black;
+}
+
+#footerBox{
+    color: black;
+    font-weight: bold;
+}
+
+#quoteHeader{
+    color: black;
+}
+
+#quote {
+    font-size: 20px;
+}
+
+#author {
+    color: black;
+    font-weight: bold;
+}
